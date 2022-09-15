@@ -2,3 +2,6 @@ site_name: MyNFT documentation
 theme:
   name: material
   
+nav:
+  - Quickstart: quickstart.md
+  - Documentation: documentation.md
