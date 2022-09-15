@@ -1,8 +1,12 @@
 site_name: MyNFT documentation
+site_url: https://my-nft.io/
+site_description: MyNFT developer documentation
+site_author: Neoval
+copyright: "MyNFT is licensed under <license> etc"
+
 theme:
   name: material
-  
-copyright: "Copyright &copy; My-NFT" #to be updated
+  locale: en
   
 nav:
   - Quickstart: quickstart.md
