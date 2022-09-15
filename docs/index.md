@@ -1,0 +1,3 @@
+# Minting factory docs
+
+Welcome
