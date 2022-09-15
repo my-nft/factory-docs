@@ -2,6 +2,8 @@ site_name: MyNFT documentation
 theme:
   name: material
   
+copyright: "Copyright &copy; My-NFT" #to be updated
+  
 nav:
   - Quickstart: quickstart.md
   - Documentation: documentation.md
