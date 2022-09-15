@@ -10,4 +10,6 @@ theme:
   
 nav:
   - Quickstart: quickstart.md
+      - Generate your NFT Kit: quickstart/generate_your_nft_kit.md
+      - Get your integration script: quickstart/get_your_integration_script.md
   - Documentation: documentation.md
