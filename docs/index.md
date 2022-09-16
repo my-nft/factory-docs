@@ -1,3 +1,3 @@
-# Minting factory docs
+# MyNFT tool kit docs
 
 Welcome
