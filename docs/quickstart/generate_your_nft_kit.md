@@ -37,9 +37,9 @@ If you don't see the network you want in metamask you have two choices:
 To start using our platform on a testnets, you will need test cryptos.
 You can get some for free depending on the network you are planning to use <a href="https://cointool.app/tools/faucets" target="_blank">here.</a>
 
-Now that your metamask wallet is set, you can create you first NFT ENV !
+Now that your metamask wallet is set, you can create you first NFT Kit !
 ### Fill-in the form fields
-This is an easy part. All you have to do is to fill-in for fields and click on "generate NFT ENV" a button.
+This is an easy part. All you have to do is to fill-in for fields and click on "generate NFT Kit" a button.
 
 In the <a href="https://minting.my-nft.io" target="_blank">factory page</a> you have to fill-in the following fields:
 
@@ -58,8 +58,8 @@ Chose this one carefully too because you won't be able to change it later and it
 #### Total supply
 This is the total number of NFTs to ever be minted from the collections. You can't change this one later as well.
 
-### Click on "Generate NFT ENV"
-When you click on "Generate NFT ENV" your metamask wallet will popup and ask you sign a transaction. This transaction will a total cost with two components:
+### Click on "Generate NFT Kit"
+When you click on "Generate NFT Kit" your metamask wallet will popup and ask you sign a transaction. This transaction will a total cost with two components:
 
 1. Gas fees: this is the fee you should pay to the blockchain network to add your transaction in a block and validate it
 
@@ -67,6 +67,6 @@ When you click on "Generate NFT ENV" your metamask wallet will popup and ask you
 
 Stay in the page and wait for the trnasaction to be validated (DON'T USE 'speed up' OPTION IN METAMASK AFTER YOU SUBMIT THE TRANSACTION).
 
-Once the transaction validated you will receive a popup message, click on 'ok' this will finalise the NFT ENV configuration.
+Once the transaction validated you will receive a popup message, click on 'ok' this will finalise the NFT Kit configuration.
 
-NB. In case the factory keeps hanging during the NFT ENV configuration, or during the transaction validation, don't panic just contact the support at support@my-nft.io and we will help you get your environnement quickly.
+NB. In case the factory keeps hanging during the NFT Kit configuration, or during the transaction validation, don't panic just contact the support at support@my-nft.io and we will help you get your environnement quickly.
