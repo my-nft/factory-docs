@@ -7,9 +7,15 @@ copyright: "MyNFT is licensed under <license> etc"
 theme:
   name: material
   locale: en
-  
+
 nav:
+  - Introduction: introduction.md
   - Quickstart:
       - Generate your NFT Kit: quickstart/generate_your_nft_kit.md
       - Get your integration script: quickstart/get_your_integration_script.md
-  - Documentation: documentation.md
+      - Integrate the NFT Kit to your website: quickstart/integrate_the_nft_kit_to_your_website.md
+      - Interact with the smart contract: quickstart/interact_with_the_smart_contract.md
+  - Documentation:
+      - Overal architecture: documentation/overal_architecture.md
+      - The factory: documentation/the_factory.md
+      - The NFT ENV: documentation/the_nft_env.md
