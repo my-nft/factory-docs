@@ -11,6 +11,7 @@ Make sure to start with a test network to avoid spending real funds.
 These are parallel blockchains to allow you test your environnement in conditions similaire to productions.
 
 There are many test networks available depending on the blockchain you aim to use.
+
 For Ethereum you have many testnets: Rinkeby, Ropsten, Kovan, ... and they are all supported by our platform.
 
 For Binance Smart Chain you can use Binance Smart Chain Testnet.
@@ -63,10 +64,10 @@ When you click on "Generate NFT Kit" your metamask wallet will popup and ask you
 
 1. Gas fees: this is the fee you should pay to the blockchain network to add your transaction in a block and validate it
 
-2. MyNFT fees: this is the fe you pay for using the factory. It is used to maintain the platform and build new features
+2. MyNFT fees: this is the fe you pay for using the <a href="https://minting.my-nft.io" target="_blank">factory</a>. It is used to maintain the platform and build new features
 
 Stay in the page and wait for the trnasaction to be validated (DON'T USE 'speed up' OPTION IN METAMASK AFTER YOU SUBMIT THE TRANSACTION).
 
 Once the transaction validated you will receive a popup message, click on 'ok' this will finalise the NFT Kit configuration.
 
-NB. In case the factory keeps hanging during the NFT Kit configuration, or during the transaction validation, don't panic just contact the support at support@my-nft.io and we will help you get your environnement quickly.
+NB. In case <a href="https://minting.my-nft.io" target="_blank">the factory</a> keeps hanging during the NFT Kit configuration, or during the transaction validation, don't panic just contact the support at support@my-nft.io and we will help you get your environnement quickly.
