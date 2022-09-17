@@ -1,4 +1,3 @@
-## Interact with the smart contract using the admin page
 
 Your NFT Kit gives you access to a dedicated admin page to interact with your smart contract.
 
@@ -54,7 +53,7 @@ The number of NFTs remaining for mint.
 
 ### Total supply
 
-The number of NFTs to ever be minted 
+The number of NFTs to ever be minted
 
 ### Enable minting
 

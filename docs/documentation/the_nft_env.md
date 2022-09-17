@@ -1,4 +1,3 @@
-## The NFT ENV
 
 ### Introduction
 

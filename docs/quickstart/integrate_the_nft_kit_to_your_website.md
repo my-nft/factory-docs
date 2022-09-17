@@ -1,4 +1,3 @@
-## Integrate the NFT Kit to your website
 
 Now that your NFT Kit is ready, you can start using it in your own website.
 
