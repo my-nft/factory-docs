@@ -1,4 +1,3 @@
-## Generate your NFT Kit
 Head to <a href="https://minting.my-nft.io" target="_blank">the factory page</a> where your NFT journey starts
 
 
