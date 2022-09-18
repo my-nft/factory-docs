@@ -1,6 +1,6 @@
-### Introduction
+# Introduction
 
-### Methods description
+## Methods description
 
 ---
 
