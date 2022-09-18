@@ -16,6 +16,6 @@ nav:
       - Integrate the NFT Kit to your website: quickstart/integrate_the_nft_kit_to_your_website.md
       - Interact with the smart contract: quickstart/interact_with_the_smart_contract.md
   - Documentation:
-      - Overal architecture: documentation/overal_architecture.md
-      - The factory: documentation/the_factory.md
       - The NFT ENV: documentation/the_nft_env.md
+      - Overall architecture: documentation/overall_architecture.md
+      - The factory: documentation/the_factory.md
