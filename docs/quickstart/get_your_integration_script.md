@@ -1,4 +1,4 @@
-After you create your NFT Kit in the <a href="https://minting.my-nft.io" target="_blank"> factory</a> page you can access your integration script <a href="https://my-nft.io/integration" target="_blank"> here</a>.
+After you create your NFT Kit in the <a href="https://factory.my-nft.io" target="_blank"> factory</a> page you can access your integration script <a href="https://my-nft.io/integration" target="_blank"> here</a>.
 
 In this page you will find the following information:
 

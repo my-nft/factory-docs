@@ -1,4 +1,4 @@
-**Head to <a href="https://minting.my-nft.io" target="_blank">the factory page</a> where your NFT journey starts**
+**Head to <a href="https://factory.my-nft.io" target="_blank">the factory page</a> where your NFT journey starts**
 
 ### Connect Metamask to the right network
 
@@ -50,7 +50,7 @@ Now that your metamask wallet is set, you can create you first NFT Kit!
 
 This is an easy part. All you have to do is to fill-in for fields and click on "generate NFT Kit" button.
 
-In the <a href="https://minting.my-nft.io" target="_blank">factory page</a> you have to fill-in the following fields:
+In the <a href="https://factory.my-nft.io" target="_blank">factory page</a> you have to fill-in the following fields:
 
 #### NFT Collection Name
 
@@ -77,7 +77,7 @@ This is the total number of NFTs to ever be minted from the collections. You can
 When you click on "Generate NFT Kit", your metamask wallet will pop up and ask you sign a transaction. This transaction will have a total cost from the following two components:
 
 1. Gas fees: this is the fee you should pay to the blockchain network to add your transaction in a block and validate it
-2. MyNFT fees: this is the fee you pay for using the <a href="https://minting.my-nft.io" target="_blank">factory</a>. It is used to maintain the platform and build new features
+2. MyNFT fees: this is the fee you pay for using the <a href="https://factory.my-nft.io" target="_blank">factory</a>. It is used to maintain the platform and build new features
 
 Stay in the page and wait for the transaction to be validated.
 
@@ -85,4 +85,4 @@ Stay in the page and wait for the transaction to be validated.
 
 Once the transaction validated you will receive a pop-up message, click on `ok`. This will finalise the NFT Kit configuration.
 
-*NB: In case <a href="https://minting.my-nft.io" target="_blank">the factory</a> keeps hanging during the NFT Kit configuration, or during the transaction validation, don't panic just contact the support at support@my-nft.io, and we will help you get your environment quickly.*
+*NB: In case <a href="https://factory.my-nft.io" target="_blank">the factory</a> keeps hanging during the NFT Kit configuration, or during the transaction validation, don't panic just contact the support at support@my-nft.io, and we will help you get your environment quickly.*
